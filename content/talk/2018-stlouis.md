@@ -1,14 +1,14 @@
 +++
-date = 2018-01-11T00:00:00  # Schedule page publish date.
+date = 2019-01-21T00:00:00  # Schedule page publish date.
 
-title = "Testing for similarity in area-based spatial patterns: how the pattern of pedestrian stops by the NYPD differs from crime (2006-2016)"
-time_start = 2018-02-09T13:00:00
-time_end = 2018-02-09T14:30:00
-abstract = "Andresen’s spatial point pattern test (SPPT) can be used to compare two spatial point patterns on defined areal units: it identifies in which particular areas the spatial point patterns diverge and aggregates these local (dis)similarities to one global measure. It has been widely applied to geographic analyses of crime and police behavior. We discuss the limitations of the SPPT and we provide two alternative methods. In one approach we use differences in proportions tests, which can be corrected for multiple comparisons. We then show how to emphasize the size of differences in subsequent maps, as with large point patterns many areas will be identified as different, even if those differences are substantively trivial. The second approach uses multinomial logistic regression, which can then be extended to identify differences in proportions over continuous time. We demonstrate these methods on identifying areas where pedestrian stops by the New York City Police Department are different from violent crimes from 2006 through 2016."
+title = "Fourth Workshop on Membrane Computing"
+time_start = 2019-01-22T13:00:00
+time_end = 2019-01-24T14:30:00
+abstract = "ACMC is a topical international conference in the field of membrane computing, which aims to provide a forum for scholars in membrane computing and related fields, especially those from Asia. ACMC 2013 is a successful 2012 event held in Wuhan, China. The continuation of the first Asian Conference on Membrane Computing and the regional expansion of the International Conference on Membrane Computing (CMC). To date, the CMC has been successfully held 13 times in different European countries. Similar to artificial neural networks, evolutionary algorithms, swarm intelligence algorithms, cellular automata and DNA computing, membrane computing is also a natural computing Branching. Membrane computing was first proposed by Gheorghe P&#259;un in 1998. Membrane computing aims to abstract computational models from the structure and function of living cells and from the collaboration of tissues, organs, and cell populations, called membrane systems or P-systems. Membrane computing has developed into a vibrant disciplinary field that has received extensive attention from scholars around the world."
 abstract_short = ""
-event = "Department of Criminology and Criminal Justice, University of Missouri-St. Louis"
+event = "Fourth Workshop on Membrane Computing"
 event_url = ""
-location = "St. Louis, USA"
+location = "Chongqiong, China"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -37,5 +37,5 @@ image = ""
 caption = ""
 
 +++
-  
+
 <!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. -->
