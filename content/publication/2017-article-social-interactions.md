@@ -47,9 +47,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Link to journal", url = "https://doi.org/10.1162/REST_a_00656"},
-              {name = "Supplemental Appendix", url = "https://www.mitpressjournals.org/doi/suppl/10.1162/REST_a_00656/suppl_file/REST_a_00656-esupp.pdf"},
-              {name = "Replication Dataset and Code", url = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3SLMJY"}]
+url_custom = [{name = "Link to journal", url = "https://doi.org/10.1162/REST_a_00656"}]
 
 
 

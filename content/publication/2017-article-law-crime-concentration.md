@@ -1,6 +1,6 @@
 +++
 title = "Nonlinear Spiking Neural P Systems"
-date = "2017-09-27"
+date = "2019-09-27"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Hong Peng", "Zeqiong Lv", "Bo Li"]

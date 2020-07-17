@@ -47,7 +47,8 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Link to journal", url = "https://www.sciencedirect.com/science/article/pii/S0950705120301854"}]
+url_custom = [{name = "Link to journal", url = "https://www.sciencedirect.com/science/article/pii/S0950705120301854"}，
+              {name = "Dataset and Code", url = "https://github.com/MorvanLi"}]
 
 # Does the content use math formatting?
 math = true
