@@ -1,9 +1,9 @@
 +++
-title = "Multi-focus image fusion based on dynamic threshold neural P systems and surfacelet transform"
-date = "2020-03-18"
+title = "Identifying the appropriate spatial resolution for the analysis of crime patterns"
+date = "2019-06-26"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Bo Li", "Hong Peng", "Jun Wang", "Xiangnian Huang" ]
+authors = ["Nick Malleson", "Wouter Steenbeek", "Martin A. Andresen"]
 
 # Publication type.
 # Legend:
@@ -17,11 +17,11 @@ authors = ["Bo Li", "Hong Peng", "Jun Wang", "Xiangnian Huang" ]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Knowledged-Based Systems"
-publication_short = "KBS"
+publication = "In *PLoS ONE*"
+publication_short = "In *PLoS ONE*"
 
 # Abstract and optional shortened version.
-abstract = "Background: Dynamic threshold neural P systems (DTNP systems) are recently proposed distributed and parallel computing models, inspired from the intersecting cortical model. DTNP systems differ from spiking neural P systems (SNP systems) due to the introduction of dynamic threshold mechanism of neurons. DTNP systems have been theoretically proven to be Turing universal computing devices. This paper discusses how to apply DTNP systems to deal with the fusion of multi-focus images, and proposes a novel image fusion method based on DTNP systems in surfacelet domain. Based on four DTNP systems with local topology, a multi-focus image fusion framework in surfacelet domain is developed, where DTNP systems are applied to control the fusion of low- and high-frequency coefficients in surfacelet domain. The proposed fusion method is evaluated on an open dataset of 20 multi-focus images in terms of five fusion quality metrics, and compared with 10 state-of-the-art fusion methods. Quantitative and qualitative experimental results demonstrate the advantages of the proposed fusion method in terms of visual quality, fusion performance and computational efficiency..<br>"
+abstract = "Background: A key issue in the analysis of many spatial processes is the choice of an appropriate scale for the analysis. Smaller geographical units are generally preferable for the study of human phenomena because they are less likely to cause heterogeneous groups to be conflated. However, it can be harder to obtain data for small units and small-number problems can frustrate quantitative analysis. This research presents a new approach that can be used to estimate the most appropriate scale at which to aggregate point data to areas.<br><br>Data and methods: The proposed method works by creating a number of regular grids with iteratively smaller cell sizes (increasing grid resolution) and estimating the similarity between two realisations of the point pattern at each resolution. The method is applied first to simulated point patterns and then to real publicly available crime data from the city of Vancouver, Canada. The crime types tested are residential burglary, commercial burglary, theft from vehicle and theft of bike.<br><br>Findings: The results provide evidence for the size of spatial unit that is the most appropriate for the different types of crime studied. Importantly, the results are dependent on both the number of events in the data and the degree of spatial clustering, so a single ‘appropriate’ scale is not identified. The method is nevertheless useful as a means of better estimating what spatial scale might be appropriate for a particular piece of analysis.<br><br>"
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -47,7 +47,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Link to journal", url = "https://www.sciencedirect.com/science/article/pii/S0950705120301854"}]
+url_custom = [{name = "Link to journal", url = "https://doi.org/10.1371/journal.pone.0218324"}]
 
 # Does the content use math formatting?
 math = true
