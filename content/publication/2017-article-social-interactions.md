@@ -47,7 +47,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Link to journal", url = "https://doi.org/10.1162/REST_a_00656"}]
+url_custom = [{name = "Link to journal", url = ""}]
 
 
 
