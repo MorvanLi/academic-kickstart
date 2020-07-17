@@ -1,9 +1,9 @@
 +++
-title = "Spiking neural P systems with inhibitory rules"
-date = "2019-09-22"
+title = "lorenzgini: generalized Gini for sparse data situations"
+date = "2018-03-23"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Hong Peng", "Bo Li", "Jun Wang", "Song Xiaoxiao", "Tao Wang", "Luis Valencia-Cabrera", "Ignacio Pérez-Hurtado"]
+authors = ["Wouter Steenbeek", "Wim Bernasco"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Hong Peng", "Bo Li", "Jun Wang", "Song Xiaoxiao", "Tao Wang", "Luis 
 # 5 = Book
 # 6 = Book chapter
 # 7 = Software
-publication_types = ["2"]
+publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = "Knowledge-Based Systems"
-publication_short = "Knowledge-Based Systems"
+publication = ""
+publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Motivated by the mechanism of inhibitory synapses, a new kind of spiking neural P (SNP) system rules, called inhibitory rules, is introduced in this paper. Based on this, a new variant of SNP systems is proposed, called spiking neural P systems with inhibitory rules (SNP-IR systems). Different from the usual firing rules in SNP systems, the firing condition of an inhibitory rule not only depends on the state of the neuron associated with the rule but also is related to the states of other neurons. Moreover, from the perspective of topological structure, the new variant is shown as a directed graph with inhibitory arcs, and therefore seems to have more powerful control. The computational completeness of SNP-IR systems is discussed. In particular, it is proved that SNP-IR systems are Turing universal number accepting/generating devices. Moreover, we obtain a small universal function-computing device for SNP-IR systems consisting of 100 neurons."
+abstract = "[lorenzgini](https://github.com/wsteenbeek/lorenzgini) is an R package that calculcates the standard Gini coefficient as well as the generalized coefficient, and plots Lorenz curves. The Lorenz plots show the line of maximal equality given the data.<br><br>The package builds on [this paper](https://doi.org/10.1007/s10940-016-9324-7) in which Wim Bernasco and I wrote that the crime and place literature lacks a standard methodology for measuring and reporting crime concentration. We suggested that crime concentration be reported with the Lorenz curve and summarized with the Gini coefficient, and we proposed generalized versions of the Lorenz curve and the Gini coefficient to correct for bias when crime data are sparse (i.e., fewer crimes than places).<br><br>The proposed generalizations are based on the principle that the observed crime concentration should not be compared with perfect equality, but with maximal equality given the data. The generalizations asymptotically approach the original Lorenz curve and the original Gini coefficient as the number of crimes approaches the number of spatial units.<br><br>"
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -48,7 +48,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Link to Journal", url = "https://www.sciencedirect.com/science/article/pii/S0950705119304514"}]
+url_custom = [{name = "Package on Github", url = "https://github.com/wsteenbeek/lorenzgini"}]
 
 # Does the content use math formatting?
 math = true
@@ -61,3 +61,11 @@ highlight = true
 [header]
 image = ""
 caption = ""
+
++++
+
+The most recent version of the package is:
+
+> Steenbeek, W., Bernasco, W. (2018). *`lorenzgini`: generalized Gini for sparse data situations*. R package version 0.1.1. URL: <https://github.com/wsteenbeek/lorenzgini>
+
+To install the package, follow the instructions on its [GitHub repository](https://github.com/wsteenbeek/lorenzgini).

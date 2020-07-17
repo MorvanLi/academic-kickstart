@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Morvan Li"
+title = "Wouter Steenbeek"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -50,19 +50,19 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Bo Li"
-  role = "Master student"
+  name = "Wouter Steenbeek"
+  role = "Researcher"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  #organizations = [ { name = "Netherlands Institute for the Study of Crime and Law Enforcement (NSCR)", url = "https://www.nscr.nl/" } ]
+  organizations = [ { name = "Netherlands Institute for the Study of Crime and Law Enforcement (NSCR)", url = "https://www.nscr.nl/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "morvanli.JPG"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "morvanli@foxmail.com"
-  address = "Xihua University, Chengdu, Sichuan Province"
-
-
+  avatar = "wouter_portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "wsteenbeek@nscr.nl"
+  address = "De Boelelaan 1077, 1081 HV Amsterdam, the Netherlands"
+  office_hours = "Monday, Tuesday, Thursday: email for appointment"
+  phone = "+31 (0) 20 5981260"
   # skype = "echo123"
   telegram = ""
 
@@ -92,12 +92,12 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-
+  
   map = 2
   map_api_key = ""
-  latitude = "103.9"
-  longitude = "30.7"
-  zoom = 99
+  latitude = "52.33359"
+  longitude = "4.86731"
+  zoom = 16
 
   # Date and time format (refer to Go's date format: https://htmlpreview.github.io/?https://github.com/bdotdub/fuckinggodateformat/blob/master/index.html )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -219,27 +219,27 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "morvanli@foxmail.com or morvanli@mail.xhu.edu.cn"
+    link = "mailto:wsteenbeek@nscr.nl"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = ""
+    link = "//twitter.com/WouterSteenbeek"
 
   [[params.social]]
     icon = "linkedin-square"
     icon_pack = "fa"
-    link = ""
+    link = "//linkedin.com/in/WouterSteenbeek"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = ""
+    link = "//scholar.google.com/citations?user=s4cHELgAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/MorvanLi"
+    link = "//github.com/wsteenbeek"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -254,10 +254,21 @@ defaultContentLanguageInSubdir = false
   url = "#about"
   weight = 1
 
+# [[menu.main]]
+#   name = "Blog"
+#   url = "#posts"
+#   weight = 2
+
 [[menu.main]]
   name = "Publications"
   url = "#publications"
   weight = 3
+
+[[menu.main]]
+  name = "Talks"
+  # url = "#talks_selected"
+  url = "#talks"
+  weight = 4
 
 [[menu.main]]
   name = "Projects"
@@ -269,11 +280,16 @@ defaultContentLanguageInSubdir = false
   url = "#software"
   weight = 6
 
+# [[menu.main]]
+#   name = "Tags"
+#   url = "#tags"
+#   weight = 7
+  
 [[menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 8
-
+  
 [[menu.main]]
   name = "CV"
   url = "files/Steenbeek_CV.pdf"
