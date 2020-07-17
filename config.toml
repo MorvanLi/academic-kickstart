@@ -274,11 +274,6 @@ defaultContentLanguageInSubdir = false
   url = "#contact"
   weight = 8
 
-[[menu.main]]
-  name = "CV"
-  url = "files/Steenbeek_CV.pdf"
-  weight = 9
-
 # Taxonomies.
 [taxonomies]
   tag = "tags"
