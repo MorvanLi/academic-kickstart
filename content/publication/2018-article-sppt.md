@@ -1,9 +1,9 @@
 +++
-title = "Testing for similarity in area‐based spatial patterns: Alternative methods to Andresen's spatial point pattern test"
-date = "2018-08-06"
+title = "Medical Image Fusion Method Based on Coupled Neural P Systems in Nonsubsampled Shearlet Transform Domain"
+date = "2020-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Andrew P. Wheeler", "Wouter Steenbeek", "Martin A. Andresen"]
+authors = ["Bo Li", "Hong Peng", "Xiaohui Luo", "Song Xiaoxiao", "Mario J. Pérez-Jiménez", "Agustín Riscos-Núñez", ]
 
 # Publication type.
 # Legend:
@@ -17,13 +17,13 @@ authors = ["Andrew P. Wheeler", "Wouter Steenbeek", "Martin A. Andresen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Transactions in GIS*"
-publication_short = "In *Transactions in GIS*"
+publication = "International Journal of Neural Systems"
+publication_short = "IJNS"
 
 # Abstract and optional shortened version.
-abstract = "Andresen's spatial point pattern test (SPPT) compares two spatial point patterns on defined areal units; it identifies areas where the spatial point patterns diverge and aggregates these local (dis)similarities to one global measure. We discuss the limitations of the SPPT and provide two alternative methods to calculate differences in the point patterns. In the first approach we use differences in proportions tests corrected for multiple comparisons. We show how the size of differences matters, as with large point patterns many areas will be identified by SPPT as statistically different, even if those differences are substantively trivial. The second approach uses multinomial logistic regression, which can be extended to identify differences in proportions over continuous time. We demonstrate these methods by identifying areas where pedestrian stops by the New York City Police Department are different from violent crimes for 2006–2016.<br><br>"
+abstract = "Coupled neural P systems (CNP systems) are a recently developed Turing-universal, distributed and parallel computing model, combining the mechanisms of spiking neurons and coupled neurons. This paper focuses on how to apply CNP systems to handle the fusion of multi-modality medical images and proposes a novel image fusion method. Based on two CNP systems with local topology, an image fusion framework in nonsubsampled shearlet transform (NSST) domain is designed, where the two CNP systems are used to control the fusion of low-frequency NSST coefficients. The proposed fusion method is evaluated on 20 pairs of multi-modality medical images and compared with seven previous fusion methods and two deep-learning-based fusion methods. Quantitative and qualitative experimental results demonstrate the advantage of the proposed fusion method in terms of visual quality and fusion performance.<br>"
 
-abstract_short = "This paper discusses the limitations of Andresen's Spatial Point Pattern Test and provides two alternative methods to calculate differences in point patterns. We demonstrate these methods by identifying areas where pedestrian stops by the New York City Police Department are proportionally different from violent crimes for 2006–2016.<br><br>"
+
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -49,7 +49,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Link to journal", url = "https://doi.org/10.1111/tgis.12341"}]
+url_custom = [{name = "Link to journal", url = "https://doi.org/10.1142/S0129065720500501"}]
 
 # Does the content use math formatting?
 math = true

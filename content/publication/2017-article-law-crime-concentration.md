@@ -1,9 +1,9 @@
 +++
-title = "More places than crimes: Implications for evaluating the law of crime concentration at place"
+title = "Nonlinear Spiking Neural P Systems"
 date = "2017-09-27"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Wim Bernasco", "Wouter Steenbeek"]
+authors = ["Hong Peng", "Zeqiong Lv", "Bo Li"]
 
 # Publication type.
 # Legend:
@@ -17,11 +17,11 @@ authors = ["Wim Bernasco", "Wouter Steenbeek"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Quantitative Criminology*"
-publication_short = "In *Journal of Quantitative Criminology*"
+publication = "International Journal of Neural Systems"
+publication_short = "International Journal of Neural Systems"
 
 # Abstract and optional shortened version.
-abstract = "Objectives: The crime and place literature lacks a standard methodology for measuring and reporting crime concentration. We suggest that crime concentration be reported with the Lorenz curve and summarized with the Gini coefficient, and we propose generalized versions of the Lorenz curve and the Gini coefficient to correct for bias when crime data are sparse (i.e., fewer crimes than places).<br><br>Methods: The proposed generalizations are based on the principle that the observed crime concentration should not be compared with perfect equality, but with maximal equality given the data. The generalizations asymptotically approach the original Lorenz curve and the original Gini coefficient as the number of crimes approaches the number of spatial units.<br><br>Results: Using geocoded crime data on two types of crime in the city of The Hague, we show the differences between the original Lorenz curve and Gini coefficient and the generalized versions. We demonstrate that the generalizations provide a better representation of crime concentration in situations of sparse crime data, and that they improve comparisons of crime concentration if they are sparse.<br><br>Conclusions: Researchers are advised to use the generalized versions of the Lorenz curve and the Gini coefficient when reporting and summarizing crime concentration at places. When places outnumber crimes, the generalized versions better represent the underlying processes of crime concentration than the original versions. The generalized Lorenz curve, the Gini coefficient and its variance are easy to compute.<br><br>"
+abstract = "This paper proposes a new variant of spiking neural P systems (in short, SNP systems), nonlinear spiking neural P systems (in short, NSNP systems). In NSNP systems, the state of each neuron is denoted by a real number, and a real configuration vector is used to characterize the state of the whole system. A new type of spiking rules, nonlinear spiking rules, is introduced to handle the neuron’s firing, where the consumed and generated amounts of spikes are often expressed by the nonlinear functions of the state of the neuron. NSNP systems are a class of distributed parallel and nondeterministic computing systems. The computational power of NSNP systems is discussed. Specifically, it is proved that NSNP systems as number-generating/accepting devices are Turing-universal. Moreover, we establish two small universal NSNP systems for function computing and number generator, containing 117 neurons and 164 neurons, respectively.<br><br>"
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -47,7 +47,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Link to journal", url = "https://doi.org/10.1007/s10940-016-9324-7"}]
+url_custom = [{name = "Link to journal", url = "https://www.worldscientific.com/doi/10.1142/S0129065720500082"}]
 
 # Does the content use math formatting?
 math = true
