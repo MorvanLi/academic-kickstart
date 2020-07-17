@@ -42,5 +42,5 @@ filter_default = 0
 
 +++
 
-When I think it may be helpful to others, I publish my code as a software package. So far, I have published two R packages on Github:
+When I think it may be helpful to others, I publish my code on Github.
 <br><br>
