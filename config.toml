@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   #organizations = [ { name = "Netherlands Institute for the Study of Crime and Law Enforcement (NSCR)", url = "https://www.nscr.nl/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "./static/img/portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "morvanli@foxmail.com"
   address = "Xihua University, Chengdu, Sichuan Province"
 
