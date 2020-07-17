@@ -95,8 +95,8 @@ defaultContentLanguageInSubdir = false
 
   map = 2
   map_api_key = ""
-  latitude = "103.9"
-  longitude = "30.7"
+  latitude = "30.778589"
+  longitude = "103.961244"
   zoom = 99
 
   # Date and time format (refer to Go's date format: https://htmlpreview.github.io/?https://github.com/bdotdub/fuckinggodateformat/blob/master/index.html )
