@@ -5,43 +5,30 @@ active = true
 date = "2016-04-20T00:00:00"
 
 # Order that this section will appear in.
-weight = 10
+weight = 15
 
 # List your academic interests.
 [interests]
   interests = [
-    "Spatial criminology",
-    "Spatio-temporal crime patterns",
-    "Crime concentration",
-    "Crime science",
-    "Social capital",
-    "Quantitative research methods"
+    "Machine Learning",
+    "Deep Learning",
+    "Computer Vision",
+    "Artificial Intelligence"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Sociology"
-  institution = "Department of Sociology/Interuniversity Centre for Social Science Theory and Methodology (ICS), Utrecht University"
-  year = 2011
+  course = "M.Sc in Computer Science and Technology"
+  institution = "Xihua University"
+  year = 2018
 
 [[education.courses]]
-  course = "M.Sc. Business Informatics"
-  institution = "Utrecht University"
-  year = 2004
+  course = "BSc in Software Engineering"
+  institution = "Xihua University"
+  year = 2014
 
-[[education.courses]]
-  course = "Propedeuse Information Science"
-  institution = "Utrecht University"
-  year = 2001
- 
 +++
 
 # About
 
-I am a researcher at the Netherlands Institute for the Study of Crime and Law Enforcement ([NSCR](https://www.nscr.nl)), a research institute of the Netherlands Organisation for Scientific Research ([NWO](https://www.nwo.nl)).
-
-Most of my work is on the ‘geography of crime’. I describe spatial and temporal variations in crime, and explain these variations as a function of the characteristics of places and of how potential offenders, potential victims, informal and formal guardians use their spatial environment over daily and weekly time cycles.
-
-I'm always up for collaboration. [Send me an email](mailto:wsteenbeek@nscr.nl) if you're interested!
-
-Are you interested in situational and spatial criminology? Consider joining the [‘Space, Place, and Crime’ working group](http://www.space-place-crime.eu/) of the European Society of Criminology.
+I am a master student of artificial intelligence at the Xihua University. I am very fortunate to be advised by [Prof. Hong Peng](http://202.115.144.153/jsj/ph/list.psp). My research includes machine learning, deep learning, computer vision.
